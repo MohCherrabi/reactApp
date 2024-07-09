@@ -1,0 +1,36 @@
+{
+  "Users": [
+    {
+      "Login": "ahmed@gmail.com",
+      "pass": "abcd1234",
+      "Nom": "OUAFI",
+      "Prénom": "Ahmed"
+    },
+    {
+      "Login": "laila@gmail.com",
+      "pass": "rami2468",
+      "Nom": "RAMI",
+      "Prénom": "Laila"
+    }
+  ],
+  "Articles": [
+    {
+      "id": 4,
+      "nomA": "PHone",
+      "pu": "20000",
+      "Qt": "29"
+    },
+    {
+      "id": 5,
+      "nomA": "ddggg",
+      "pu": "5",
+      "Qt": "55"
+    },
+    {
+      "id": 6,
+      "nomA": "ddrtr",
+      "pu": "4",
+      "Qt": "4"
+    }
+  ]
+}
